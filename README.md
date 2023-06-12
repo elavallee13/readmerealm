@@ -58,5 +58,8 @@ This test proved to ask the required questions for a professional readme file th
 
 
 GitHub REPO - https://github.com/elavallee13/readmerealm/
+
 Deployment - https://elavallee13.github.io/readmerealm/
+
+Realeased - https://github.com/elavallee13/readmerealm/releases/tag/Homework
 
