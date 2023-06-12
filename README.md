@@ -55,3 +55,6 @@ I contribute the help for this project to my professors and TA’s that assist u
 
 To test this project I used the command in terminal - node index.js
 This test proved to ask the required questions for a professional readme file that automatically creates said file ready for publishing.
+
+
+GitHub REPO - https://github.com/elavallee13/readmerealm/
