@@ -43,4 +43,5 @@ I contribute help for this project to my professors and TAs that assist us with 
 To test this project I used the command in terminal - node index.js This test proved to ask the required questions for a professional readme file that automatically creates said file ready for publishing.
 
 Developer Github - [github.com/elavallee13](https://github.com/elavallee13/readmerealm)
+
 [ReadMeRealm Video Walkthrough.webm](https://github.com/elavallee13/readmerealm/assets/126723001/e924e0b2-1b89-4340-824d-61068a311a3a)
