@@ -36,8 +36,7 @@ The features I created with this project allow the user to be prompted with prof
 
 ## How to Contribute
 
-I contribute help for this project to my professors and TAs that ass<img width="1101" alt="Screenshot 2023-06-20 at 5 09 46 PM" src="https://github.com/elavallee13/readmerealm/assets/126723001/bb487875-ce04-4190-a876-e63d9694585b">
-ist us with the needed information to help us complete assignments.
+I contribute help for this project to my professors and TAs that assist us with the needed information to help us complete assignments.
 
 ## Tests
 
