@@ -1,5 +1,11 @@
 # ReadMeRealm
-Module 9 Challenge - Node.js Challenge: Professional README Generator
+
+## Description
+
+My motivation for this project is to create an application that creates a README file for the user. This allows the creator of an application to easily document subjects such as their motivation for the project, why they built the application, what problem does it solve, and what they learned creating the application.
+I built this project to assist developers with a crucial part of the development process. Having a ReadMe file not only allows the creator to display key features of the application but also allows the user on how to use the application effectively.
+This project solves the issue for the creator of listing key points that are important to highlight with the launch of their application.
+What I learned in this application is how to effectively use node.js to create a program that can create an essential file for developers. I also learned key points on what goes into making a professional README file.
 
 ## Table of Contents
 
@@ -8,40 +14,21 @@ Module 9 Challenge - Node.js Challenge: Professional README Generator
 - [Credits](#credits)
 - [License](#license)
 
-
-# Motivation
-
-My motivation for this project is to create an application that creates a README file for the user. This allows the creator of an application to easily document subjects such as their motivation for the project, why they built the application, what problem does it solve, and what they learned creating the application.
-
-
-# Why did you build this project?
-
- I built this project to assist developers with a crucial part of the development process. Having a ReadMe file not only allows the creator to display key features of the application but also allows the user on how to use the application effectively.
-
-# What problem did you solve?
-
-This project solves the issue for the creator of listing key points that are important to highlight with the launch of their application.
-
-# What did you learn?
-
-What I learned in this application is how to effectively use node.js to create a program that can create an essential file for developers. I also learned key points on what goes into making a professional README file.
-
 ## Installation
 
-node index.js to launch program via vscode.
+node index.js to launch the program via vscode.
 
 ## Usage 
 
-Terminal - node index.js - Questions are then launched and can be answered.
+undefined
 
 ## Credits
 
-I owe the credits of this projects to the instructors of this course, my peers, and learning material found on https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide and https://developer.mozilla.org/en-US/docs/Learn 
+I owe the credits of this projects to the instructors of this course, my peers, and learning material found on https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide and https://developer.mozilla.org/en-US/docs/Learn
 
 ## License
 
- I did not use a license for this project. 
-
+I did not use a license for this project.
 
 ## Features
 
@@ -49,18 +36,12 @@ The features I created with this project allow the user to be prompted with prof
 
 ## How to Contribute
 
-I contribute the help for this project to my professors and TA’s that assist us with the needed information to help us complete assignments.
+I contribute help for this project to my professors and TAs that ass<img width="1101" alt="Screenshot 2023-06-20 at 5 09 46 PM" src="https://github.com/elavallee13/readmerealm/assets/126723001/bb487875-ce04-4190-a876-e63d9694585b">
+ist us with the needed information to help us complete assignments.
 
 ## Tests
 
-To test this project I used the command in terminal - node index.js
-This test proved to ask the required questions for a professional readme file that automatically creates said file ready for publishing.
+To test this project I used the command in terminal - node index.js This test proved to ask the required questions for a professional readme file that automatically creates said file ready for publishing.
 
-
-GitHub REPO - https://github.com/elavallee13/readmerealm/
-
-Deployment - https://elavallee13.github.io/readmerealm/
-
-Realeased - https://github.com/elavallee13/readmerealm/releases/tag/Homework
-
-<img width="1092" alt="Screenshot 2023-06-12 at 5 21 44 PM" src="https://github.com/elavallee13/readmerealm/assets/126723001/5adace3d-2deb-43c8-a175-f1f40b91d6b2">
+Developer Github - [github.com/elavallee13](https://github.com/elavallee13/readmerealm)
+[ReadMeRealm Video Walkthrough.webm](https://github.com/elavallee13/readmerealm/assets/126723001/e924e0b2-1b89-4340-824d-61068a311a3a)
